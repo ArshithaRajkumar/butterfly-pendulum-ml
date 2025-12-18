@@ -1,4 +1,4 @@
-# The Butterfly Effect: Generative AI & Physics-Informed Failure Prediction
+# The Butterfly Pendulum ML: Generative AI & Physics-Informed Failure Prediction
 
 ## 🚀 Project Overview
 This repository explores three advanced AI paradigms—**Variational Autoencoders (VAEs)**, **Transformers**, and **Physics-Informed Neural Networks (PINNs)**—to solve a complex time-series problem: **Detecting and diagnosing a "Butterfly Effect" on a pendulum.**
