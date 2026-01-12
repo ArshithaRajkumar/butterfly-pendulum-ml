@@ -15,7 +15,7 @@ This repository explores three advanced AI paradigms—**Variational Autoencoder
 ### 1. Global Anomaly Detection (VAE)
 * **File:** `vae_anomaly.py`
 * **Technique:** Uses a **Variational Autoencoder** to learn the latent distribution of normal swings.
-* **Outcome:** High reconstruction error serves as a global flag for system failure.
+* **Outcome:** High reconstruction error serves as a flag for system failure.
 
 ### 2. Change-Point Detection (Transformer)
 * **File:** `transformer_detect.py`
