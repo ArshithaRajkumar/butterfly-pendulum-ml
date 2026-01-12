@@ -1,12 +1,12 @@
 # The Butterfly Pendulum ML
 
 ## 🚀 Project Overview
-This repository explores three advanced AI paradigms—**Variational Autoencoders (VAEs)**, **Transformers**, and **Physics-Informed Neural Networks (PINNs)**—to solve a time-series problem: **Detecting and diagnosing a "Butterfly Effect" on a pendulum.**
+This repository explores three advanced AI paradigms—**Variational Autoencoders (VAEs)**, **Transformers**, and **Physics-Informed Neural Networks (PINNs)**—to solve a time-series problem: **Detecting and diagnosing a "Butterfly" on a pendulum.**
 
 ### The Scenario
 1.  **Normal State:** A pendulum swings with a frequency of **3.0 Hz**.
 2.  **The Anomaly:** A "butterfly" lands on the pendulum, altering the mass and changing the frequency to **2.0 Hz**.
-3.  **The Challenge:** * Detect *if* the system is broken.
+3.  **The Challenge:** Detect *if* the system is broken.
     * Detect *when* it broke.
     * Diagnose *how* the physics changed.
 
